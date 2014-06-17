@@ -99,8 +99,8 @@
 								"selection":
 								[
 									[
-										1406,
-										1406
+										919,
+										919
 									]
 								],
 								"settings":
@@ -108,7 +108,7 @@
 									"syntax": "Packages/Ruby/Ruby.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 405.0,
+								"translation.y": 135.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
